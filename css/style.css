@@ -1,0 +1,157 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Noto Serif', serif;
+}
+span {
+    color: red;
+}
+p {
+    font-family: 'Oxygen', sans-serif;
+    text-align: justify;
+}
+section {
+    height: 550px;
+}
+a {
+    text-decoration: none;
+}
+img {
+    width: 100%;
+}
+h1 {
+    font-size: 70px;
+}
+.half-width {
+    width: 40%;
+    margin-left: 10px;
+    padding: 20px;
+    margin-right: 50px;
+}
+.float-left {
+    float: left;
+}
+.float-right {
+    float: right;
+}
+.bg-color {
+    background-color: #f8f9fc;
+}
+.first-section {
+    padding: 30px;
+}
+.first-section h2 {
+    color: orange;
+    font-size: 40px;
+}
+.section-img img {
+    width: 100%;
+    height: 350px;
+}
+.profile-btn {
+    background-image: linear-gradient(45deg,orange 10%, #DD5E89 100%);
+    padding: 10px 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    border-radius: 5px;
+    color: white;
+}
+.img-background {
+    background-image: linear-gradient(45deg, orange, #dd5e89);
+    padding: 10px;
+    border-radius: 10px;
+}
+.img-background img {
+    margin-left: 10px;
+}
+.second-section {
+    padding: 20px;
+}
+.second-section-bg {
+    background-image: linear-gradient(45deg, #ed4b72, violet );
+    border-radius: 80%;
+    padding: 30px;
+}
+.third-section h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+.third-section {
+    padding: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.third-section img {
+    height: 350px;
+    width: 22%;
+    padding: 7px;
+    margin-left: 10px;
+}
+.fourth-section {
+    padding: 20px;
+    margin-top: 20px;
+}
+.fourth-section h1 {
+    text-align: center;
+}
+.fourth-section-div {
+    border: 2px solid gold;
+    border-radius: 5px;
+    padding: 5px;
+    margin-right: 5px;
+    margin-left: 10px;
+    margin-top:-30px;
+}
+.fourth-section-div img {
+    width: 180px;
+    height: 220px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.fourth-section-div h3 {
+    text-align: center;
+}
+.fourth-section-div a {
+    text-align: center;
+    margin-left: 40px;
+}
+.testimonial-btn {
+    background-image: linear-gradient(45deg,orange 10%, #DD5E89 100%);
+    padding: 5px 10px;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    border-radius: 5px;
+    color: white;
+}
+.fifth-section {
+    text-align: center;
+    margin-left: 430px;
+}
+.fifth-section-div {
+    background-image: linear-gradient(45deg, #ec4d81, orange);
+    padding: 40px 20px;
+    border-radius: 10px;
+    margin-top: 70px;
+}
+.fifth-section p{
+    text-align: center;
+}
+.fifth-section h2 {
+    font-size: 50px;
+
+}
+footer {
+    background: black;
+    padding: 10px;
+}
+footer p {
+    text-align: center;
+    color: white;
+}
+footer a {
+    color: white;
+}
